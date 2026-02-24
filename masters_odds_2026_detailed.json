@@ -1,0 +1,3382 @@
+[
+  {
+    "name": "Christiaan Bezuidenhout",
+    "consensus_odds": -100,
+    "implied_prob": 50.0,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 100,
+    "max_odds": 20000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      20000
+    ]
+  },
+  {
+    "name": "Lucas Glover",
+    "consensus_odds": -100,
+    "implied_prob": 50.0,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 100,
+    "max_odds": 20000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      20000
+    ]
+  },
+  {
+    "name": "Stephan Jaeger",
+    "consensus_odds": -100,
+    "implied_prob": 50.0,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 100,
+    "max_odds": 20000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      20000
+    ]
+  },
+  {
+    "name": "Nicholas Dunlap",
+    "consensus_odds": -100,
+    "implied_prob": 50.0,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 100,
+    "max_odds": 30000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      30000
+    ]
+  },
+  {
+    "name": "Webb Simpson",
+    "consensus_odds": -100,
+    "implied_prob": 50.0,
+    "num_books": 3,
+    "books": [
+      "Betfair"
+    ],
+    "min_odds": 100,
+    "max_odds": 31900,
+    "all_odds": [
+      100,
+      100,
+      31900
+    ]
+  },
+  {
+    "name": "Scottie Scheffler",
+    "consensus_odds": 300,
+    "implied_prob": 25.0,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 275,
+    "max_odds": 370,
+    "all_odds": [
+      275,
+      275,
+      275,
+      275,
+      300,
+      300,
+      300,
+      300,
+      300,
+      370,
+      370,
+      370
+    ]
+  },
+  {
+    "name": "Daniel Berger",
+    "consensus_odds": 675,
+    "implied_prob": 12.9,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 300,
+    "max_odds": 20900,
+    "all_odds": [
+      300,
+      300,
+      12500,
+      20900
+    ]
+  },
+  {
+    "name": "Tom Hoge",
+    "consensus_odds": 687,
+    "implied_prob": 12.7,
+    "num_books": 4,
+    "books": [
+      "Betfair",
+      "Bovada"
+    ],
+    "min_odds": 300,
+    "max_odds": 42900,
+    "all_odds": [
+      300,
+      300,
+      25000,
+      42900
+    ]
+  },
+  {
+    "name": "Rory McIlroy",
+    "consensus_odds": 700,
+    "implied_prob": 12.5,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 600,
+    "max_odds": 880,
+    "all_odds": [
+      600,
+      600,
+      650,
+      700,
+      700,
+      700,
+      700,
+      700,
+      750,
+      880,
+      880,
+      880
+    ]
+  },
+  {
+    "name": "Bryson DeChambeau",
+    "consensus_odds": 1494,
+    "implied_prob": 6.27,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 1000,
+    "max_odds": 1900,
+    "all_odds": [
+      1000,
+      1200,
+      1400,
+      1400,
+      1400,
+      1400,
+      1600,
+      1600,
+      1600,
+      1900,
+      1900,
+      1900
+    ]
+  },
+  {
+    "name": "Jon Rahm",
+    "consensus_odds": 1600,
+    "implied_prob": 5.88,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 1000,
+    "max_odds": 1900,
+    "all_odds": [
+      1000,
+      1400,
+      1400,
+      1500,
+      1500,
+      1600,
+      1600,
+      1600,
+      1600,
+      1900,
+      1900,
+      1900
+    ]
+  },
+  {
+    "name": "Xander Schauffele",
+    "consensus_odds": 1694,
+    "implied_prob": 5.57,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 1400,
+    "max_odds": 2400,
+    "all_odds": [
+      1400,
+      1600,
+      1600,
+      1600,
+      1600,
+      1600,
+      1800,
+      1900,
+      1900,
+      2400,
+      2400,
+      2400
+    ]
+  },
+  {
+    "name": "Tommy Fleetwood",
+    "consensus_odds": 1800,
+    "implied_prob": 5.26,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 1600,
+    "max_odds": 2500,
+    "all_odds": [
+      1600,
+      1600,
+      1800,
+      1800,
+      1800,
+      1800,
+      1800,
+      1800,
+      1800,
+      2500,
+      2500,
+      2500
+    ]
+  },
+  {
+    "name": "Ludvig Aberg",
+    "consensus_odds": 1895,
+    "implied_prob": 5.01,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 1000,
+    "max_odds": 2600,
+    "all_odds": [
+      1000,
+      1400,
+      1600,
+      1600,
+      1800,
+      1800,
+      2000,
+      2100,
+      2600,
+      2600,
+      2600,
+      2600
+    ]
+  },
+  {
+    "name": "Collin Morikawa",
+    "consensus_odds": 2596,
+    "implied_prob": 3.71,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2000,
+    "max_odds": 3000,
+    "all_odds": [
+      2000,
+      2000,
+      2000,
+      2000,
+      2000,
+      2500,
+      2700,
+      2700,
+      2700,
+      2800,
+      3000,
+      3000
+    ]
+  },
+  {
+    "name": "Justin Rose",
+    "consensus_odds": 2596,
+    "implied_prob": 3.71,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2000,
+    "max_odds": 3500,
+    "all_odds": [
+      2000,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2700,
+      2800,
+      3000,
+      3500,
+      3500,
+      3500
+    ]
+  },
+  {
+    "name": "Patrick Reed",
+    "consensus_odds": 2642,
+    "implied_prob": 3.65,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2000,
+    "max_odds": 3500,
+    "all_odds": [
+      2000,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2800,
+      2800,
+      3300,
+      3300,
+      3300,
+      3500
+    ]
+  },
+  {
+    "name": "Hideki Matsuyama",
+    "consensus_odds": 3000,
+    "implied_prob": 3.23,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2000,
+    "max_odds": 3700,
+    "all_odds": [
+      2000,
+      2700,
+      2800,
+      2800,
+      2800,
+      3000,
+      3000,
+      3000,
+      3500,
+      3700,
+      3700,
+      3700
+    ]
+  },
+  {
+    "name": "Viktor Hovland",
+    "consensus_odds": 3300,
+    "implied_prob": 2.94,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2800,
+    "max_odds": 4900,
+    "all_odds": [
+      2800,
+      3000,
+      3300,
+      3300,
+      3300,
+      3300,
+      3300,
+      3500,
+      3500,
+      4900,
+      4900,
+      4900
+    ]
+  },
+  {
+    "name": "Cameron Young",
+    "consensus_odds": 4000,
+    "implied_prob": 2.44,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2800,
+    "max_odds": 5400,
+    "all_odds": [
+      2800,
+      2800,
+      3300,
+      3300,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4500,
+      4500,
+      5400
+    ]
+  },
+  {
+    "name": "Brooks Koepka",
+    "consensus_odds": 4000,
+    "implied_prob": 2.44,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 5900,
+    "all_odds": [
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      5000,
+      5900,
+      5900,
+      5900
+    ]
+  },
+  {
+    "name": "Robert Macintyre",
+    "consensus_odds": 4000,
+    "implied_prob": 2.44,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 3500,
+    "max_odds": 5900,
+    "all_odds": [
+      3500,
+      3500,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      5000,
+      5900,
+      5900,
+      5900
+    ]
+  },
+  {
+    "name": "Justin Thomas",
+    "consensus_odds": 4000,
+    "implied_prob": 2.44,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 2500,
+    "max_odds": 8900,
+    "all_odds": [
+      2500,
+      3000,
+      3300,
+      3500,
+      4000,
+      4000,
+      4000,
+      5500,
+      5500,
+      8400,
+      8400,
+      8900
+    ]
+  },
+  {
+    "name": "Jordan Spieth",
+    "consensus_odds": 4300,
+    "implied_prob": 2.27,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 3300,
+    "max_odds": 5000,
+    "all_odds": [
+      3300,
+      3500,
+      3500,
+      4000,
+      4000,
+      4300,
+      4300,
+      4300,
+      4500,
+      5000,
+      5000,
+      5000
+    ]
+  },
+  {
+    "name": "Tyrrell Hatton",
+    "consensus_odds": 4500,
+    "implied_prob": 2.17,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 6900,
+    "all_odds": [
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4500,
+      4500,
+      5500,
+      6000,
+      6900,
+      6900,
+      6900
+    ]
+  },
+  {
+    "name": "Shane Lowry",
+    "consensus_odds": 4737,
+    "implied_prob": 2.07,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 6900,
+    "all_odds": [
+      4000,
+      4000,
+      4000,
+      4500,
+      4500,
+      4500,
+      5000,
+      5000,
+      5500,
+      6400,
+      6400,
+      6900
+    ]
+  },
+  {
+    "name": "Christopher Gotterup",
+    "consensus_odds": 5000,
+    "implied_prob": 1.96,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 3500,
+    "max_odds": 7400,
+    "all_odds": [
+      3500,
+      3500,
+      4000,
+      4000,
+      4000,
+      5000,
+      5000,
+      5000,
+      6900,
+      6900,
+      7400
+    ]
+  },
+  {
+    "name": "Ben Griffin",
+    "consensus_odds": 5000,
+    "implied_prob": 1.96,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 8000,
+    "all_odds": [
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      6000,
+      8000
+    ]
+  },
+  {
+    "name": "Matthew Fitzpatrick",
+    "consensus_odds": 5238,
+    "implied_prob": 1.87,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4500,
+    "max_odds": 8000,
+    "all_odds": [
+      4500,
+      4500,
+      5000,
+      5000,
+      5000,
+      5000,
+      5500,
+      6600,
+      6900,
+      6900,
+      6900,
+      8000
+    ]
+  },
+  {
+    "name": "Patrick Cantlay",
+    "consensus_odds": 5500,
+    "implied_prob": 1.79,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 7900,
+    "all_odds": [
+      4000,
+      4000,
+      4000,
+      4000,
+      5000,
+      5500,
+      5500,
+      5500,
+      6000,
+      7900,
+      7900,
+      7900
+    ]
+  },
+  {
+    "name": "Joaquin Niemann",
+    "consensus_odds": 5500,
+    "implied_prob": 1.79,
+    "num_books": 8,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 3800,
+    "max_odds": 8900,
+    "all_odds": [
+      3800,
+      4000,
+      4500,
+      5500,
+      5500,
+      8400,
+      8900,
+      8900
+    ]
+  },
+  {
+    "name": "Min Woo Lee",
+    "consensus_odds": 5950,
+    "implied_prob": 1.65,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 7000,
+    "all_odds": [
+      4000,
+      4900,
+      5000,
+      5500,
+      5900,
+      5900,
+      6000,
+      6000,
+      6600,
+      6600,
+      6600,
+      7000
+    ]
+  },
+  {
+    "name": "Russell Henley",
+    "consensus_odds": 6000,
+    "implied_prob": 1.64,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 6500,
+    "all_odds": [
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      6000,
+      6000,
+      6000,
+      6400,
+      6400,
+      6400,
+      6500
+    ]
+  },
+  {
+    "name": "Jason Day",
+    "consensus_odds": 6550,
+    "implied_prob": 1.5,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 8900,
+    "all_odds": [
+      5000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6500,
+      6600,
+      6600,
+      6600,
+      7900,
+      8900,
+      8900
+    ]
+  },
+  {
+    "name": "Akshay Bhatia",
+    "consensus_odds": 6600,
+    "implied_prob": 1.49,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6000,
+    "max_odds": 8900,
+    "all_odds": [
+      6000,
+      6000,
+      6000,
+      6600,
+      6600,
+      6600,
+      6600,
+      6600,
+      8000,
+      8900,
+      8900,
+      8900
+    ]
+  },
+  {
+    "name": "Corey Conners",
+    "consensus_odds": 6600,
+    "implied_prob": 1.49,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 10900,
+    "all_odds": [
+      5000,
+      5500,
+      6000,
+      6500,
+      6600,
+      6600,
+      6600,
+      6600,
+      7000,
+      10900,
+      10900,
+      10900
+    ]
+  },
+  {
+    "name": "Cameron Smith",
+    "consensus_odds": 6600,
+    "implied_prob": 1.49,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 4000,
+    "max_odds": 10900,
+    "all_odds": [
+      4000,
+      4000,
+      4000,
+      6000,
+      6000,
+      6600,
+      6600,
+      6600,
+      7000,
+      10900,
+      10900,
+      10900
+    ]
+  },
+  {
+    "name": "Si Woo Kim",
+    "consensus_odds": 6600,
+    "implied_prob": 1.49,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5500,
+    "max_odds": 7900,
+    "all_odds": [
+      5500,
+      5500,
+      6000,
+      6500,
+      6600,
+      6600,
+      6600,
+      6600,
+      7900,
+      7900,
+      7900
+    ]
+  },
+  {
+    "name": "Will Zalatoris",
+    "consensus_odds": 7000,
+    "implied_prob": 1.41,
+    "num_books": 9,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB"
+    ],
+    "min_odds": 4000,
+    "max_odds": 12900,
+    "all_odds": [
+      4000,
+      4000,
+      5000,
+      5500,
+      7000,
+      8000,
+      9900,
+      9900,
+      12900
+    ]
+  },
+  {
+    "name": "Sungjae Im",
+    "consensus_odds": 7022,
+    "implied_prob": 1.4,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 14900,
+    "all_odds": [
+      5000,
+      5000,
+      6600,
+      6600,
+      6600,
+      6600,
+      7500,
+      9000,
+      10000,
+      13900,
+      13900,
+      14900
+    ]
+  },
+  {
+    "name": "Sam Burns",
+    "consensus_odds": 7193,
+    "implied_prob": 1.37,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5500,
+    "max_odds": 10000,
+    "all_odds": [
+      5500,
+      5500,
+      6000,
+      6000,
+      6600,
+      6600,
+      7900,
+      7900,
+      7900,
+      8000,
+      8000,
+      10000
+    ]
+  },
+  {
+    "name": "Sepp Straka",
+    "consensus_odds": 7241,
+    "implied_prob": 1.36,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6500,
+    "max_odds": 9900,
+    "all_odds": [
+      6500,
+      6600,
+      6600,
+      6600,
+      6600,
+      7000,
+      7500,
+      8000,
+      8000,
+      9900,
+      9900,
+      9900
+    ]
+  },
+  {
+    "name": "Jacob Bridgeman",
+    "consensus_odds": 7234,
+    "implied_prob": 1.36,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6500,
+    "max_odds": 10000,
+    "all_odds": [
+      6500,
+      6600,
+      6600,
+      6600,
+      8000,
+      9000,
+      10000,
+      10000
+    ]
+  },
+  {
+    "name": "Wyndham Clark",
+    "consensus_odds": 8000,
+    "implied_prob": 1.23,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6500,
+    "max_odds": 18900,
+    "all_odds": [
+      6500,
+      6600,
+      7000,
+      8000,
+      8000,
+      8000,
+      8000,
+      8000,
+      8000,
+      18900,
+      18900,
+      18900
+    ]
+  },
+  {
+    "name": "Max Homa",
+    "consensus_odds": 8000,
+    "implied_prob": 1.23,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6500,
+    "max_odds": 15900,
+    "all_odds": [
+      6500,
+      6500,
+      6600,
+      6600,
+      6600,
+      8000,
+      8000,
+      8000,
+      9900,
+      9900,
+      15900
+    ]
+  },
+  {
+    "name": "Marco Penge",
+    "consensus_odds": 8000,
+    "implied_prob": 1.23,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 5000,
+    "max_odds": 11900,
+    "all_odds": [
+      5000,
+      7400,
+      7500,
+      7500,
+      7500,
+      8000,
+      8000,
+      8000,
+      9900,
+      10000,
+      11900,
+      11900
+    ]
+  },
+  {
+    "name": "Joohyung Kim",
+    "consensus_odds": 8000,
+    "implied_prob": 1.23,
+    "num_books": 7,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "Everygame",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 100,
+    "max_odds": 12500,
+    "all_odds": [
+      100,
+      100,
+      100,
+      8000,
+      8000,
+      10000,
+      12500
+    ]
+  },
+  {
+    "name": "J. J. Spaun",
+    "consensus_odds": 8195,
+    "implied_prob": 1.21,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 7400,
+    "max_odds": 12500,
+    "all_odds": [
+      7400,
+      7400,
+      8000,
+      8000,
+      8000,
+      8000,
+      8400,
+      10000,
+      10000,
+      10000,
+      10000,
+      12500
+    ]
+  },
+  {
+    "name": "Adam Scott",
+    "consensus_odds": 9950,
+    "implied_prob": 1.0,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6600,
+    "max_odds": 15000,
+    "all_odds": [
+      6600,
+      8000,
+      8000,
+      9900,
+      9900,
+      9900,
+      10000,
+      10000,
+      10000,
+      12500,
+      12500,
+      15000
+    ]
+  },
+  {
+    "name": "Harris English",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 16900,
+    "all_odds": [
+      8000,
+      8000,
+      8000,
+      8000,
+      9000,
+      10000,
+      10000,
+      10000,
+      16900,
+      16900,
+      16900
+    ]
+  },
+  {
+    "name": "Sergio Garcia",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 22900,
+    "all_odds": [
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      12500,
+      15000,
+      19900,
+      21900,
+      22900
+    ]
+  },
+  {
+    "name": "Dustin Johnson",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6500,
+    "max_odds": 20900,
+    "all_odds": [
+      6500,
+      6600,
+      9000,
+      9000,
+      10000,
+      10000,
+      10000,
+      10000,
+      12500,
+      20900,
+      20900,
+      20900
+    ]
+  },
+  {
+    "name": "Maverick Mcnealy",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 14900,
+    "all_odds": [
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      11000,
+      12500,
+      14900,
+      14900,
+      14900
+    ]
+  },
+  {
+    "name": "Alexander Noren",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 19900,
+    "all_odds": [
+      8000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      16900,
+      16900,
+      19900
+    ]
+  },
+  {
+    "name": "Ryan Fox",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 20900,
+    "all_odds": [
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      12000,
+      12500,
+      20900,
+      20900,
+      20900
+    ]
+  },
+  {
+    "name": "Tony Finau",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 9,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB"
+    ],
+    "min_odds": 6500,
+    "max_odds": 16900,
+    "all_odds": [
+      6500,
+      6600,
+      7000,
+      8000,
+      10000,
+      10000,
+      16900,
+      16900,
+      16900
+    ]
+  },
+  {
+    "name": "Matt McCarty",
+    "consensus_odds": 10000,
+    "implied_prob": 0.99,
+    "num_books": 7,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 100,
+    "max_odds": 20000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      10000,
+      10000,
+      10000,
+      20000
+    ]
+  },
+  {
+    "name": "Billy Horschel",
+    "consensus_odds": 11000,
+    "implied_prob": 0.9,
+    "num_books": 9,
+    "books": [
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 20000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      10000,
+      11000,
+      15000,
+      15000,
+      20000,
+      20000
+    ]
+  },
+  {
+    "name": "Sahith Theegala",
+    "consensus_odds": 11000,
+    "implied_prob": 0.9,
+    "num_books": 9,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB"
+    ],
+    "min_odds": 6600,
+    "max_odds": 20900,
+    "all_odds": [
+      6600,
+      8000,
+      8000,
+      10000,
+      11000,
+      12500,
+      13900,
+      19900,
+      20900
+    ]
+  },
+  {
+    "name": "Keegan Bradley",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 17900,
+    "all_odds": [
+      8000,
+      8000,
+      10000,
+      10000,
+      12000,
+      12500,
+      12500,
+      12500,
+      15000,
+      16900,
+      16900,
+      17900
+    ]
+  },
+  {
+    "name": "Kurt Kitayama",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 15000,
+    "all_odds": [
+      8000,
+      8000,
+      8000,
+      12500,
+      12500,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  {
+    "name": "Rasmus Hojgaard",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 23900,
+    "all_odds": [
+      8000,
+      8000,
+      8000,
+      10000,
+      11000,
+      12500,
+      15000,
+      15000,
+      21900,
+      21900,
+      23900
+    ]
+  },
+  {
+    "name": "Tom McKibbin",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 14000,
+    "all_odds": [
+      8000,
+      8000,
+      10000,
+      12500,
+      12500,
+      12500,
+      14000
+    ]
+  },
+  {
+    "name": "Harry Hall",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 8000,
+    "max_odds": 13000,
+    "all_odds": [
+      8000,
+      10000,
+      10000,
+      12500,
+      12500,
+      12500,
+      13000
+    ]
+  },
+  {
+    "name": "Ryan Gerard",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 17900,
+    "all_odds": [
+      10000,
+      10000,
+      10000,
+      10000,
+      11000,
+      12500,
+      12500,
+      15000,
+      15900,
+      17900,
+      17900
+    ]
+  },
+  {
+    "name": "Pierceson Coody",
+    "consensus_odds": 12500,
+    "implied_prob": 0.79,
+    "num_books": 3,
+    "books": [
+      "DraftKings",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 13000,
+    "all_odds": [
+      12500,
+      12500,
+      13000
+    ]
+  },
+  {
+    "name": "Aaron Rai",
+    "consensus_odds": 12745,
+    "implied_prob": 0.78,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 24900,
+    "all_odds": [
+      10000,
+      10000,
+      11000,
+      12500,
+      12500,
+      12500,
+      13000,
+      15000,
+      15000,
+      21900,
+      21900,
+      24900
+    ]
+  },
+  {
+    "name": "Rasmus Neergaard-Petersen",
+    "consensus_odds": 13000,
+    "implied_prob": 0.76,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 6600,
+    "max_odds": 20900,
+    "all_odds": [
+      6600,
+      10000,
+      12500,
+      12500,
+      12500,
+      13000,
+      15000,
+      15000,
+      20900,
+      20900,
+      20900
+    ]
+  },
+  {
+    "name": "Mason Howell",
+    "consensus_odds": 13697,
+    "implied_prob": 0.72,
+    "num_books": 6,
+    "books": [
+      "BetMGM",
+      "Betfair",
+      "Bovada",
+      "TAB"
+    ],
+    "min_odds": 7900,
+    "max_odds": 100000,
+    "all_odds": [
+      7900,
+      7900,
+      7900,
+      50000,
+      100000,
+      100000
+    ]
+  },
+  {
+    "name": "Davis Thompson",
+    "consensus_odds": 14000,
+    "implied_prob": 0.71,
+    "num_books": 7,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 52900,
+    "all_odds": [
+      10000,
+      10000,
+      12500,
+      14000,
+      21900,
+      21900,
+      52900
+    ]
+  },
+  {
+    "name": "Brandon Wu",
+    "consensus_odds": 14716,
+    "implied_prob": 0.67,
+    "num_books": 6,
+    "books": [
+      "BetMGM",
+      "Betfair",
+      "Bovada",
+      "TAB"
+    ],
+    "min_odds": 7900,
+    "max_odds": 200000,
+    "all_odds": [
+      7900,
+      7900,
+      7900,
+      100000,
+      100000,
+      200000
+    ]
+  },
+  {
+    "name": "Rickie Fowler",
+    "consensus_odds": 14900,
+    "implied_prob": 0.67,
+    "num_books": 3,
+    "books": [
+      "Betfair"
+    ],
+    "min_odds": 14900,
+    "max_odds": 14900,
+    "all_odds": [
+      14900,
+      14900,
+      14900
+    ]
+  },
+  {
+    "name": "Max Greyserman",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 25000,
+    "all_odds": [
+      100,
+      100,
+      10000,
+      10000,
+      10000,
+      15000,
+      15000,
+      20900,
+      25000,
+      25000,
+      25000
+    ]
+  },
+  {
+    "name": "Brian Harman",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 17900,
+    "all_odds": [
+      10000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      16900,
+      16900,
+      17500,
+      17900
+    ]
+  },
+  {
+    "name": "Nicolai Hojgaard",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 9,
+    "books": [
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 15000,
+    "max_odds": 17900,
+    "all_odds": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      16900,
+      16900,
+      17900
+    ]
+  },
+  {
+    "name": "Michael Kim",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 20000,
+    "all_odds": [
+      12500,
+      15000,
+      15000,
+      15000,
+      15000,
+      20000,
+      20000,
+      20000
+    ]
+  },
+  {
+    "name": "Taylor Pendrith",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 10,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 33900,
+    "all_odds": [
+      100,
+      100,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      33900
+    ]
+  },
+  {
+    "name": "Carlos Ortiz",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 15000,
+    "all_odds": [
+      10000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  {
+    "name": "Kristoffer Reitan",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 32500,
+    "all_odds": [
+      12500,
+      12500,
+      15000,
+      15000,
+      15000,
+      30000,
+      30000,
+      32500
+    ]
+  },
+  {
+    "name": "Sam Stevens",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 29900,
+    "all_odds": [
+      100,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      17500,
+      20000,
+      29900,
+      29900
+    ]
+  },
+  {
+    "name": "Byeong Hun An",
+    "consensus_odds": 15000,
+    "implied_prob": 0.66,
+    "num_books": 10,
+    "books": [
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 25000,
+    "all_odds": [
+      100,
+      100,
+      100,
+      15000,
+      15000,
+      15000,
+      15000,
+      20000,
+      20000,
+      25000
+    ]
+  },
+  {
+    "name": "Aldrich Potgieter",
+    "consensus_odds": 15360,
+    "implied_prob": 0.65,
+    "num_books": 10,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 25000,
+    "all_odds": [
+      100,
+      100,
+      10000,
+      10000,
+      12500,
+      19900,
+      20000,
+      25000,
+      25000,
+      25000
+    ]
+  },
+  {
+    "name": "Sami V\u00e4lim\u00e4ki",
+    "consensus_odds": 17500,
+    "implied_prob": 0.57,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 40900,
+    "all_odds": [
+      12500,
+      12500,
+      12500,
+      15000,
+      15000,
+      17500,
+      17500,
+      19000,
+      24900,
+      24900,
+      40900
+    ]
+  },
+  {
+    "name": "Tiger Woods",
+    "consensus_odds": 17698,
+    "implied_prob": 0.56,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 15000,
+    "max_odds": 25000,
+    "all_odds": [
+      15000,
+      15000,
+      15000,
+      16900,
+      16900,
+      17500,
+      17900,
+      25000,
+      25000,
+      25000,
+      25000,
+      25000
+    ]
+  },
+  {
+    "name": "Andrew Novak",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 26900,
+    "all_odds": [
+      12500,
+      15000,
+      15000,
+      15000,
+      20000,
+      20000,
+      20000,
+      25000,
+      26900,
+      26900,
+      26900
+    ]
+  },
+  {
+    "name": "Thomas Detry",
+    "consensus_odds": 19900,
+    "implied_prob": 0.5,
+    "num_books": 8,
+    "books": [
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 15000,
+    "max_odds": 20900,
+    "all_odds": [
+      15000,
+      15000,
+      15000,
+      19900,
+      19900,
+      20000,
+      20000,
+      20900
+    ]
+  },
+  {
+    "name": "Phil Mickelson",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 49900,
+    "all_odds": [
+      10000,
+      11000,
+      15000,
+      15000,
+      15000,
+      20000,
+      20000,
+      20000,
+      25000,
+      38900,
+      38900,
+      49900
+    ]
+  },
+  {
+    "name": "John Keefer",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 9,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 26900,
+    "all_odds": [
+      12500,
+      12500,
+      13000,
+      20000,
+      20000,
+      20000,
+      24900,
+      24900,
+      26900
+    ]
+  },
+  {
+    "name": "Jayden Trey Schaper",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 3,
+    "books": [
+      "DraftKings",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000,
+      20000,
+      20000
+    ]
+  },
+  {
+    "name": "Austin Eckroat",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Cameron Davis",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Chris Kirk",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Joe Highsmith",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Kevin Yu",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Laurie Canter",
+    "consensus_odds": 20000,
+    "implied_prob": 0.5,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 20000,
+    "max_odds": 20000,
+    "all_odds": [
+      20000
+    ]
+  },
+  {
+    "name": "Adam Hadwin",
+    "consensus_odds": 19900,
+    "implied_prob": 0.5,
+    "num_books": 3,
+    "books": [
+      "Betfair"
+    ],
+    "min_odds": 19900,
+    "max_odds": 29900,
+    "all_odds": [
+      19900,
+      19900,
+      29900
+    ]
+  },
+  {
+    "name": "Denny McCarthy",
+    "consensus_odds": 21824,
+    "implied_prob": 0.46,
+    "num_books": 6,
+    "books": [
+      "Betfair",
+      "Bovada",
+      "FanDuel",
+      "SportsBet"
+    ],
+    "min_odds": 15000,
+    "max_odds": 52900,
+    "all_odds": [
+      15000,
+      15000,
+      15000,
+      39900,
+      39900,
+      52900
+    ]
+  },
+  {
+    "name": "Nick Taylor",
+    "consensus_odds": 25000,
+    "implied_prob": 0.4,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 10000,
+    "max_odds": 30900,
+    "all_odds": [
+      10000,
+      10000,
+      20000,
+      22500,
+      25000,
+      25000,
+      25000,
+      25000,
+      27900,
+      27900,
+      30900
+    ]
+  },
+  {
+    "name": "Haotong Li",
+    "consensus_odds": 25000,
+    "implied_prob": 0.4,
+    "num_books": 8,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 15000,
+    "max_odds": 30000,
+    "all_odds": [
+      15000,
+      15000,
+      17500,
+      25000,
+      25000,
+      25000,
+      25000,
+      30000
+    ]
+  },
+  {
+    "name": "Davis Riley",
+    "consensus_odds": 25000,
+    "implied_prob": 0.4,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 600,
+    "max_odds": 32500,
+    "all_odds": [
+      600,
+      600,
+      8900,
+      25000,
+      25000,
+      25000,
+      25000,
+      25000,
+      30000,
+      30000,
+      32500
+    ]
+  },
+  {
+    "name": "J.T. Poston",
+    "consensus_odds": 25000,
+    "implied_prob": 0.4,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 25000,
+    "max_odds": 25000,
+    "all_odds": [
+      25000
+    ]
+  },
+  {
+    "name": "Bubba Watson",
+    "consensus_odds": 30000,
+    "implied_prob": 0.33,
+    "num_books": 12,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "Everygame",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 25000,
+    "max_odds": 60900,
+    "all_odds": [
+      25000,
+      25000,
+      25000,
+      25000,
+      25000,
+      30000,
+      30000,
+      30000,
+      32900,
+      32900,
+      40000,
+      60900
+    ]
+  },
+  {
+    "name": "Jhonattan Vegas",
+    "consensus_odds": 30000,
+    "implied_prob": 0.33,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 30000,
+    "max_odds": 30000,
+    "all_odds": [
+      30000
+    ]
+  },
+  {
+    "name": "Nico Echavarria",
+    "consensus_odds": 30000,
+    "implied_prob": 0.33,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 30000,
+    "max_odds": 30000,
+    "all_odds": [
+      30000
+    ]
+  },
+  {
+    "name": "Charl Schwartzel",
+    "consensus_odds": 35000,
+    "implied_prob": 0.28,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 30000,
+    "max_odds": 40000,
+    "all_odds": [
+      30000,
+      30000,
+      30000,
+      30000,
+      35000,
+      35000,
+      35000,
+      38900,
+      38900,
+      38900,
+      40000
+    ]
+  },
+  {
+    "name": "Danny Willett",
+    "consensus_odds": 35000,
+    "implied_prob": 0.28,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 56900,
+    "all_odds": [
+      100,
+      20000,
+      30000,
+      30000,
+      35000,
+      35000,
+      35000,
+      40000,
+      50000,
+      56900,
+      56900
+    ]
+  },
+  {
+    "name": "Ben Campbell",
+    "consensus_odds": 35000,
+    "implied_prob": 0.28,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100,
+    "max_odds": 67900,
+    "all_odds": [
+      100,
+      100,
+      30000,
+      30000,
+      35000,
+      35000,
+      40000,
+      40000,
+      40000,
+      50000,
+      67900
+    ]
+  },
+  {
+    "name": "Naoyuki Kataoka",
+    "consensus_odds": 35000,
+    "implied_prob": 0.28,
+    "num_books": 4,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 25000,
+    "max_odds": 75000,
+    "all_odds": [
+      25000,
+      35000,
+      35000,
+      75000
+    ]
+  },
+  {
+    "name": "Michael Brennan",
+    "consensus_odds": 40000,
+    "implied_prob": 0.25,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 12500,
+    "max_odds": 41900,
+    "all_odds": [
+      12500,
+      15000,
+      15000,
+      15000,
+      15000,
+      40000,
+      40000,
+      40000,
+      41900,
+      41900,
+      41900
+    ]
+  },
+  {
+    "name": "Zach Johnson",
+    "consensus_odds": 40000,
+    "implied_prob": 0.25,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 34900,
+    "max_odds": 99900,
+    "all_odds": [
+      34900,
+      34900,
+      35000,
+      35000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      50000,
+      99900
+    ]
+  },
+  {
+    "name": "Adam Schenk",
+    "consensus_odds": 40000,
+    "implied_prob": 0.25,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 40000,
+    "max_odds": 40000,
+    "all_odds": [
+      40000
+    ]
+  },
+  {
+    "name": "Matthieu Pavon",
+    "consensus_odds": 40000,
+    "implied_prob": 0.25,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 40000,
+    "max_odds": 40000,
+    "all_odds": [
+      40000
+    ]
+  },
+  {
+    "name": "Patton Kizzire",
+    "consensus_odds": 40000,
+    "implied_prob": 0.25,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 40000,
+    "max_odds": 40000,
+    "all_odds": [
+      40000
+    ]
+  },
+  {
+    "name": "Ethan Fang",
+    "consensus_odds": 50000,
+    "implied_prob": 0.2,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "Unibet"
+    ],
+    "min_odds": 7900,
+    "max_odds": 100000,
+    "all_odds": [
+      7900,
+      7900,
+      7900,
+      50000,
+      50000,
+      100000,
+      100000
+    ]
+  },
+  {
+    "name": "Angel Cabrera",
+    "consensus_odds": 50000,
+    "implied_prob": 0.2,
+    "num_books": 11,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Betfair",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 900,
+    "max_odds": 100000,
+    "all_odds": [
+      900,
+      900,
+      50000,
+      50000,
+      50000,
+      50000,
+      99900,
+      100000,
+      100000,
+      100000,
+      100000
+    ]
+  },
+  {
+    "name": "Thriston Lawrence",
+    "consensus_odds": 50000,
+    "implied_prob": 0.2,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 50000,
+    "max_odds": 50000,
+    "all_odds": [
+      50000
+    ]
+  },
+  {
+    "name": "Michael La Sasso",
+    "consensus_odds": 75000,
+    "implied_prob": 0.13,
+    "num_books": 3,
+    "books": [
+      "BetMGM",
+      "Bovada",
+      "TAB"
+    ],
+    "min_odds": 50000,
+    "max_odds": 100000,
+    "all_odds": [
+      50000,
+      75000,
+      100000
+    ]
+  },
+  {
+    "name": "Rafael Campos",
+    "consensus_odds": 75000,
+    "implied_prob": 0.13,
+    "num_books": 1,
+    "books": [
+      "Bovada"
+    ],
+    "min_odds": 75000,
+    "max_odds": 75000,
+    "all_odds": [
+      75000
+    ]
+  },
+  {
+    "name": "Fred Couples",
+    "consensus_odds": 100000,
+    "implied_prob": 0.1,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "Unibet"
+    ],
+    "min_odds": 100000,
+    "max_odds": 250000,
+    "all_odds": [
+      100000,
+      100000,
+      100000,
+      100000,
+      100000,
+      200000,
+      250000
+    ]
+  },
+  {
+    "name": "Mike Weir",
+    "consensus_odds": 100000,
+    "implied_prob": 0.1,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100000,
+    "max_odds": 250000,
+    "all_odds": [
+      100000,
+      100000,
+      100000,
+      100000,
+      200000,
+      250000,
+      250000
+    ]
+  },
+  {
+    "name": "Vijay Singh",
+    "consensus_odds": 133344,
+    "implied_prob": 0.07,
+    "num_books": 6,
+    "books": [
+      "BetMGM",
+      "Bovada",
+      "DraftKings",
+      "FanDuel",
+      "SportsBet",
+      "TAB"
+    ],
+    "min_odds": 100000,
+    "max_odds": 250000,
+    "all_odds": [
+      100000,
+      100000,
+      100000,
+      200000,
+      200000,
+      250000
+    ]
+  },
+  {
+    "name": "Jose Maria Olaz\u00e1bal",
+    "consensus_odds": 200000,
+    "implied_prob": 0.05,
+    "num_books": 7,
+    "books": [
+      "BetMGM",
+      "BetRivers",
+      "Bovada",
+      "DraftKings",
+      "SportsBet",
+      "TAB",
+      "Unibet"
+    ],
+    "min_odds": 100000,
+    "max_odds": 250000,
+    "all_odds": [
+      100000,
+      100000,
+      100000,
+      200000,
+      200000,
+      250000,
+      250000
+    ]
+  }
+]

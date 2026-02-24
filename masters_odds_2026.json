@@ -1,0 +1,612 @@
+[
+  {
+    "name": "Christiaan Bezuidenhout",
+    "odds": -100,
+    "implied_prob": 50.0
+  },
+  {
+    "name": "Lucas Glover",
+    "odds": -100,
+    "implied_prob": 50.0
+  },
+  {
+    "name": "Stephan Jaeger",
+    "odds": -100,
+    "implied_prob": 50.0
+  },
+  {
+    "name": "Nicholas Dunlap",
+    "odds": -100,
+    "implied_prob": 50.0
+  },
+  {
+    "name": "Webb Simpson",
+    "odds": -100,
+    "implied_prob": 50.0
+  },
+  {
+    "name": "Scottie Scheffler",
+    "odds": 300,
+    "implied_prob": 25.0
+  },
+  {
+    "name": "Daniel Berger",
+    "odds": 675,
+    "implied_prob": 12.9
+  },
+  {
+    "name": "Tom Hoge",
+    "odds": 687,
+    "implied_prob": 12.7
+  },
+  {
+    "name": "Rory McIlroy",
+    "odds": 700,
+    "implied_prob": 12.5
+  },
+  {
+    "name": "Bryson DeChambeau",
+    "odds": 1494,
+    "implied_prob": 6.27
+  },
+  {
+    "name": "Jon Rahm",
+    "odds": 1600,
+    "implied_prob": 5.88
+  },
+  {
+    "name": "Xander Schauffele",
+    "odds": 1694,
+    "implied_prob": 5.57
+  },
+  {
+    "name": "Tommy Fleetwood",
+    "odds": 1800,
+    "implied_prob": 5.26
+  },
+  {
+    "name": "Ludvig Aberg",
+    "odds": 1895,
+    "implied_prob": 5.01
+  },
+  {
+    "name": "Collin Morikawa",
+    "odds": 2596,
+    "implied_prob": 3.71
+  },
+  {
+    "name": "Justin Rose",
+    "odds": 2596,
+    "implied_prob": 3.71
+  },
+  {
+    "name": "Patrick Reed",
+    "odds": 2642,
+    "implied_prob": 3.65
+  },
+  {
+    "name": "Hideki Matsuyama",
+    "odds": 3000,
+    "implied_prob": 3.23
+  },
+  {
+    "name": "Viktor Hovland",
+    "odds": 3300,
+    "implied_prob": 2.94
+  },
+  {
+    "name": "Cameron Young",
+    "odds": 4000,
+    "implied_prob": 2.44
+  },
+  {
+    "name": "Brooks Koepka",
+    "odds": 4000,
+    "implied_prob": 2.44
+  },
+  {
+    "name": "Robert Macintyre",
+    "odds": 4000,
+    "implied_prob": 2.44
+  },
+  {
+    "name": "Justin Thomas",
+    "odds": 4000,
+    "implied_prob": 2.44
+  },
+  {
+    "name": "Jordan Spieth",
+    "odds": 4300,
+    "implied_prob": 2.27
+  },
+  {
+    "name": "Tyrrell Hatton",
+    "odds": 4500,
+    "implied_prob": 2.17
+  },
+  {
+    "name": "Shane Lowry",
+    "odds": 4737,
+    "implied_prob": 2.07
+  },
+  {
+    "name": "Christopher Gotterup",
+    "odds": 5000,
+    "implied_prob": 1.96
+  },
+  {
+    "name": "Ben Griffin",
+    "odds": 5000,
+    "implied_prob": 1.96
+  },
+  {
+    "name": "Matthew Fitzpatrick",
+    "odds": 5238,
+    "implied_prob": 1.87
+  },
+  {
+    "name": "Patrick Cantlay",
+    "odds": 5500,
+    "implied_prob": 1.79
+  },
+  {
+    "name": "Joaquin Niemann",
+    "odds": 5500,
+    "implied_prob": 1.79
+  },
+  {
+    "name": "Min Woo Lee",
+    "odds": 5950,
+    "implied_prob": 1.65
+  },
+  {
+    "name": "Russell Henley",
+    "odds": 6000,
+    "implied_prob": 1.64
+  },
+  {
+    "name": "Jason Day",
+    "odds": 6550,
+    "implied_prob": 1.5
+  },
+  {
+    "name": "Akshay Bhatia",
+    "odds": 6600,
+    "implied_prob": 1.49
+  },
+  {
+    "name": "Corey Conners",
+    "odds": 6600,
+    "implied_prob": 1.49
+  },
+  {
+    "name": "Cameron Smith",
+    "odds": 6600,
+    "implied_prob": 1.49
+  },
+  {
+    "name": "Si Woo Kim",
+    "odds": 6600,
+    "implied_prob": 1.49
+  },
+  {
+    "name": "Will Zalatoris",
+    "odds": 7000,
+    "implied_prob": 1.41
+  },
+  {
+    "name": "Sungjae Im",
+    "odds": 7022,
+    "implied_prob": 1.4
+  },
+  {
+    "name": "Sam Burns",
+    "odds": 7193,
+    "implied_prob": 1.37
+  },
+  {
+    "name": "Sepp Straka",
+    "odds": 7241,
+    "implied_prob": 1.36
+  },
+  {
+    "name": "Jacob Bridgeman",
+    "odds": 7234,
+    "implied_prob": 1.36
+  },
+  {
+    "name": "Wyndham Clark",
+    "odds": 8000,
+    "implied_prob": 1.23
+  },
+  {
+    "name": "Max Homa",
+    "odds": 8000,
+    "implied_prob": 1.23
+  },
+  {
+    "name": "Marco Penge",
+    "odds": 8000,
+    "implied_prob": 1.23
+  },
+  {
+    "name": "Joohyung Kim",
+    "odds": 8000,
+    "implied_prob": 1.23
+  },
+  {
+    "name": "J. J. Spaun",
+    "odds": 8195,
+    "implied_prob": 1.21
+  },
+  {
+    "name": "Adam Scott",
+    "odds": 9950,
+    "implied_prob": 1.0
+  },
+  {
+    "name": "Harris English",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Sergio Garcia",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Dustin Johnson",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Maverick Mcnealy",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Alexander Noren",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Ryan Fox",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Tony Finau",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Matt McCarty",
+    "odds": 10000,
+    "implied_prob": 0.99
+  },
+  {
+    "name": "Billy Horschel",
+    "odds": 11000,
+    "implied_prob": 0.9
+  },
+  {
+    "name": "Sahith Theegala",
+    "odds": 11000,
+    "implied_prob": 0.9
+  },
+  {
+    "name": "Keegan Bradley",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Kurt Kitayama",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Rasmus Hojgaard",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Tom McKibbin",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Harry Hall",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Ryan Gerard",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Pierceson Coody",
+    "odds": 12500,
+    "implied_prob": 0.79
+  },
+  {
+    "name": "Aaron Rai",
+    "odds": 12745,
+    "implied_prob": 0.78
+  },
+  {
+    "name": "Rasmus Neergaard-Petersen",
+    "odds": 13000,
+    "implied_prob": 0.76
+  },
+  {
+    "name": "Mason Howell",
+    "odds": 13697,
+    "implied_prob": 0.72
+  },
+  {
+    "name": "Davis Thompson",
+    "odds": 14000,
+    "implied_prob": 0.71
+  },
+  {
+    "name": "Brandon Wu",
+    "odds": 14716,
+    "implied_prob": 0.67
+  },
+  {
+    "name": "Rickie Fowler",
+    "odds": 14900,
+    "implied_prob": 0.67
+  },
+  {
+    "name": "Max Greyserman",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Brian Harman",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Nicolai Hojgaard",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Michael Kim",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Taylor Pendrith",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Carlos Ortiz",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Kristoffer Reitan",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Sam Stevens",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Byeong Hun An",
+    "odds": 15000,
+    "implied_prob": 0.66
+  },
+  {
+    "name": "Aldrich Potgieter",
+    "odds": 15360,
+    "implied_prob": 0.65
+  },
+  {
+    "name": "Sami V\u00e4lim\u00e4ki",
+    "odds": 17500,
+    "implied_prob": 0.57
+  },
+  {
+    "name": "Tiger Woods",
+    "odds": 17698,
+    "implied_prob": 0.56
+  },
+  {
+    "name": "Andrew Novak",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Thomas Detry",
+    "odds": 19900,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Phil Mickelson",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "John Keefer",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Jayden Trey Schaper",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Austin Eckroat",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Cameron Davis",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Chris Kirk",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Joe Highsmith",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Kevin Yu",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Laurie Canter",
+    "odds": 20000,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Adam Hadwin",
+    "odds": 19900,
+    "implied_prob": 0.5
+  },
+  {
+    "name": "Denny McCarthy",
+    "odds": 21824,
+    "implied_prob": 0.46
+  },
+  {
+    "name": "Nick Taylor",
+    "odds": 25000,
+    "implied_prob": 0.4
+  },
+  {
+    "name": "Haotong Li",
+    "odds": 25000,
+    "implied_prob": 0.4
+  },
+  {
+    "name": "Davis Riley",
+    "odds": 25000,
+    "implied_prob": 0.4
+  },
+  {
+    "name": "J.T. Poston",
+    "odds": 25000,
+    "implied_prob": 0.4
+  },
+  {
+    "name": "Bubba Watson",
+    "odds": 30000,
+    "implied_prob": 0.33
+  },
+  {
+    "name": "Jhonattan Vegas",
+    "odds": 30000,
+    "implied_prob": 0.33
+  },
+  {
+    "name": "Nico Echavarria",
+    "odds": 30000,
+    "implied_prob": 0.33
+  },
+  {
+    "name": "Charl Schwartzel",
+    "odds": 35000,
+    "implied_prob": 0.28
+  },
+  {
+    "name": "Danny Willett",
+    "odds": 35000,
+    "implied_prob": 0.28
+  },
+  {
+    "name": "Ben Campbell",
+    "odds": 35000,
+    "implied_prob": 0.28
+  },
+  {
+    "name": "Naoyuki Kataoka",
+    "odds": 35000,
+    "implied_prob": 0.28
+  },
+  {
+    "name": "Michael Brennan",
+    "odds": 40000,
+    "implied_prob": 0.25
+  },
+  {
+    "name": "Zach Johnson",
+    "odds": 40000,
+    "implied_prob": 0.25
+  },
+  {
+    "name": "Adam Schenk",
+    "odds": 40000,
+    "implied_prob": 0.25
+  },
+  {
+    "name": "Matthieu Pavon",
+    "odds": 40000,
+    "implied_prob": 0.25
+  },
+  {
+    "name": "Patton Kizzire",
+    "odds": 40000,
+    "implied_prob": 0.25
+  },
+  {
+    "name": "Ethan Fang",
+    "odds": 50000,
+    "implied_prob": 0.2
+  },
+  {
+    "name": "Angel Cabrera",
+    "odds": 50000,
+    "implied_prob": 0.2
+  },
+  {
+    "name": "Thriston Lawrence",
+    "odds": 50000,
+    "implied_prob": 0.2
+  },
+  {
+    "name": "Michael La Sasso",
+    "odds": 75000,
+    "implied_prob": 0.13
+  },
+  {
+    "name": "Rafael Campos",
+    "odds": 75000,
+    "implied_prob": 0.13
+  },
+  {
+    "name": "Fred Couples",
+    "odds": 100000,
+    "implied_prob": 0.1
+  },
+  {
+    "name": "Mike Weir",
+    "odds": 100000,
+    "implied_prob": 0.1
+  },
+  {
+    "name": "Vijay Singh",
+    "odds": 133344,
+    "implied_prob": 0.07
+  },
+  {
+    "name": "Jose Maria Olaz\u00e1bal",
+    "odds": 200000,
+    "implied_prob": 0.05
+  }
+]
