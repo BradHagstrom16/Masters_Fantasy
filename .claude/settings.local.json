@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(where node 2>/dev/null || where python 2>/dev/null || where py 2>/dev/null || where powershell 2>/dev/null)",
+      "Bash(/c/Users/10193/AppData/Local/Programs/Python/Python313/python.exe:*)"
+    ]
+  }
+}

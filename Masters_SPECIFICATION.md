@@ -2,9 +2,10 @@
 ## Final Specification Document
 
 **Status:** 🔒 LOCKED  
-**Version:** 1.0  
-**Locked:** February 24, 2026  
-**Validated:** Full statistical validation complete (200K Monte Carlo simulations)
+**Version:** 2.0  
+**Locked:** February 25, 2026  
+**Validated:** Full statistical validation complete (200K Monte Carlo simulations)  
+**Audit:** All critical, minor, and suggestion-level findings from v1.0 audit resolved
 
 ---
 
@@ -18,6 +19,8 @@
 
 **Entry Fee:** Free (bragging rights)
 
+**Administrator:** Brad Hagstrom. The administrator's scoring and rules decisions are final. Any disputes are resolved at the administrator's sole discretion.
+
 ---
 
 ## 2. KEY DATES
@@ -25,10 +28,12 @@
 | Event | Date/Time |
 |-------|-----------|
 | Masters Tournament | April 9–12, 2026 |
-| **Pick Deadline** | **April 9, 2026 at 11:59 PM Central Time** |
+| **Pick Deadline** | **April 9, 2026 — first tee time (form locks automatically)** |
 | First Round | April 9, 2026 |
 | Cut (after Round 2) | April 10, 2026 |
 | Final Round | April 12, 2026 |
+
+The Google Form will be configured to stop accepting responses at the first tee time of Round 1. The exact time will be set once the Masters publishes tee times.
 
 ---
 
@@ -43,7 +48,8 @@
 | **5** | Deep Cuts | 21 | 1 | +17,500 to +25,000 |
 | **6** | Wildcards | 18 | 1 | +30,000 to +75,000 |
 
-**Total Picks:** 10 (2 + 2 + 2 + 2 + 1 + 1)
+**Total Picks:** 10 (2 + 2 + 2 + 2 + 1 + 1)  
+**Unique Lineups:** 72,008,535,060 (~72 billion)
 
 ### Tier Assignments
 
@@ -174,15 +180,19 @@
 - Michael La Sasso (+75,000)
 - Rafael Campos (+75,000)
 
-### Excluded
+### Excluded Players
 - Vijay Singh, Mike Weir, Fred Couples, José María Olazábal — past champions, effectively honorary
 - Angel Cabrera — legal issues, not competing
 - Webb Simpson — effectively retired
 - Stephan Jaeger — no Masters qualification path
-- All amateurs — excluded from pool
 
 ### Field Reconciliation
-Tier assignments are based on consensus odds from 10 bookmakers as of February 24, 2026. The final Masters field will not be confirmed until closer to tournament week. Any player who withdraws or is not in the final field will be removed from their tier before the pick deadline. Any newly qualified player will be added to the appropriate tier based on available odds data. The administrator will communicate all changes before the pick deadline.
+Tier assignments are based on consensus odds from 10 bookmakers as of February 24, 2026. The final Masters field will not be confirmed until closer to tournament week. Expected removals: ~25–28 players from the current 115 will not make the final field (~87–90 players).
+
+- Any player who withdraws or is not in the final field will be removed from their tier before the pick deadline.
+- Any newly qualified player will be added to the appropriate tier based on available odds data.
+- Any player qualifying after the pick deadline is not available for selection and is excluded from the pool.
+- The administrator will communicate all changes before the pick deadline.
 
 ---
 
@@ -216,10 +226,23 @@ If a golfer misses the cut, their actual score is **discarded** and **replaced**
 ### Scoring Rules
 - Scores are based on the **official Masters Tournament leaderboard** (total strokes relative to par after 4 rounds)
 - A golfer's score to par is their 72-hole total minus 288 (par 72 × 4 rounds)
-- Playoffs: If a golfer enters a playoff, their score is their **regulation 72-hole score** (playoff strokes do not count)
-- Finish position is determined by the **official final standings** (including playoff results for position purposes)
-- Ties in tournament position: all tied golfers receive the same bonus (e.g., three golfers tied for 4th all receive the Top 5 bonus of −3)
+- **Playoffs:** A golfer's score is their **regulation 72-hole score to par** — playoff strokes do not count. The playoff result determines finish position for bonus purposes.
+- **Tied finish positions:** All tied golfers receive the same bonus (e.g., three golfers tied for 4th all receive the Top 5 bonus of −3)
+- **Withdrawals and disqualifications:** See Edge Cases (Section 8)
 - No retroactive adjustments for disqualifications after the tournament concludes
+
+### Scoring Formula
+```
+If golfer makes the cut:
+  Fantasy Score = (72-hole score to par) + (best applicable bonus)
+  
+  Where bonuses are: Win = −5, Top 5 = −3, Top 10 = −2, Top 20 = −1, else 0
+
+If golfer misses the cut (or WD/DQ):
+  Fantasy Score = Tier MC Penalty (replaces actual score)
+
+Player Total = Sum of all 10 golfer fantasy scores
+```
 
 ### Scoring Examples
 
@@ -239,19 +262,20 @@ If a golfer misses the cut, their actual score is **discarded** and **replaced**
 - Fantasy score = **+5** (Tier 6 MC penalty, replaces actual score)
 
 **Example 6:** Full lineup calculation.
-| Pick | Golfer | Tier | Result | Score |
-|------|--------|------|--------|-------|
-| T1-A | Scheffler | 1 | Wins at −12 | −17 |
-| T1-B | Åberg | 1 | T15 at −3 | −4 |
-| T2-A | Morikawa | 2 | T3 at −8 | −11 |
-| T2-B | Spieth | 2 | Missed cut | +9 |
-| T3-A | Cantlay | 3 | T22 at E | 0 |
-| T3-B | Burns | 3 | T10 at −2 | −4 |
-| T4-A | Fowler | 4 | Missed cut | +7 |
-| T4-B | Theegala | 4 | T18 at −1 | −2 |
-| T5 | Tiger Woods | 5 | Missed cut | +6 |
-| T6 | Bubba Watson | 6 | T30 at +3 | +3 |
-| | | | **TOTAL** | **−13** |
+
+| Pick | Golfer | Tier | Result | Calculation | Score |
+|------|--------|------|--------|-------------|-------|
+| T1-A | Scheffler | 1 | Wins at −12 | −12 − 5 (Win) | −17 |
+| T1-B | Åberg | 1 | T15 at −3 | −3 − 1 (Top 20) | −4 |
+| T2-A | Morikawa | 2 | T3 at −8 | −8 − 3 (Top 5) | −11 |
+| T2-B | Spieth | 2 | Missed cut | Tier 2 penalty | +9 |
+| T3-A | Cantlay | 3 | T22 at E | 0 (no bonus) | 0 |
+| T3-B | Burns | 3 | T10 at −2 | −2 − 2 (Top 10) | −4 |
+| T4-A | Fowler | 4 | Missed cut | Tier 4 penalty | +7 |
+| T4-B | Theegala | 4 | T18 at −1 | −1 − 1 (Top 20) | −2 |
+| T5 | Tiger Woods | 5 | Missed cut | Tier 5 penalty | +6 |
+| T6 | Bubba Watson | 6 | T30 at +3 | +3 (no bonus) | +3 |
+| | | | **TOTAL** | | **−13** |
 
 ---
 
@@ -260,6 +284,8 @@ If a golfer misses the cut, their actual score is **discarded** and **replaced**
 At registration, players submit a prediction:
 
 **Predict the winning score to par** (e.g., "−11")
+
+The winning score for tiebreaker purposes is the winner's **regulation 72-hole score to par**, excluding any playoff strokes. If the Masters ends in a playoff, the winning score is the 72-hole score shared by the playoff participants.
 
 **Tiebreaker Resolution:**
 1. Closest to the actual winning score (absolute difference)
@@ -276,18 +302,18 @@ At registration, players submit a prediction:
 - All 10 picks submitted together (tier-by-tier selection on one page)
 - Tiebreaker guess submitted with picks
 - Picks can be edited unlimited times before deadline
-- **Deadline: April 9, 2026 at 11:59 PM Central Time**
+- **Deadline: April 9, 2026 — first tee time (form locks automatically via Google Forms)**
 
-### Pick Submission Form Structure
+### Pick Submission Form Structure (Google Forms)
 1. **Name** (short answer, required)
 2. **Email** (email, required)
-3. **Tier 1 — Elite** (checkboxes, exactly 2 selections from 7 players)
-4. **Tier 2 — Strong** (checkboxes, exactly 2 selections from 12 players)
-5. **Tier 3 — Competitive** (checkboxes, exactly 2 selections from 22 players)
-6. **Tier 4 — Longshots** (checkboxes, exactly 2 selections from 35 players)
+3. **Tier 1 — Elite** (checkboxes, exactly 2 selections from 7 players — use response validation to enforce exactly 2)
+4. **Tier 2 — Strong** (checkboxes, exactly 2 selections from 12 players — use response validation to enforce exactly 2)
+5. **Tier 3 — Competitive** (checkboxes, exactly 2 selections from 22 players — use response validation to enforce exactly 2)
+6. **Tier 4 — Longshots** (checkboxes, exactly 2 selections from 35 players — use response validation to enforce exactly 2)
 7. **Tier 5 — Deep Cuts** (dropdown, 1 selection from 21 players)
 8. **Tier 6 — Wildcards** (dropdown, 1 selection from 18 players)
-9. **Winning Score Prediction** (number, required — e.g., −11)
+9. **Winning Score Prediction** (number, required — form validated to range −25 to +15)
 
 ### Pick Visibility
 - **Before deadline:** Players can see who has registered, but NOT their picks
@@ -325,14 +351,16 @@ At registration, players submit a prediction:
 
 | Scenario | Handling |
 |----------|----------|
-| Golfer withdraws before tournament | Removed from tier; players who picked them must re-pick before deadline |
-| Golfer withdraws during tournament (WD) | Treated as missed cut; tier MC penalty applies |
+| Golfer withdraws before deadline | Removed from tier; players who picked them must re-pick before deadline |
+| Golfer withdraws after deadline (WD) | Treated as missed cut; tier MC penalty applies — regardless of whether the golfer has teed off. Once the pick deadline passes, any withdrawal is treated as a missed cut. |
 | Golfer disqualified (DQ) | Treated as missed cut; tier MC penalty applies |
 | Playoff occurs | Regulation 72-hole score used; playoff result determines finish position for bonus purposes |
 | Tied finish position | All tied golfers get the same bonus (e.g., T4 all get Top 5 bonus) |
 | Weather delay extends tournament | Final scores used regardless of schedule changes |
+| Tournament shortened (< 72 holes) | Scores based on official final standings as declared by Augusta National. If the tournament is canceled entirely, all entries are void. |
 | Golfer not in final field | Removed from tier before deadline; admin notifies players |
-| New golfer qualifies late | Added to appropriate tier based on odds; admin notifies players |
+| New golfer qualifies before deadline | Added to appropriate tier based on odds; admin notifies players |
+| New golfer qualifies after deadline | Not available for selection; excluded from the pool |
 | Identical total score AND tiebreaker | Co-champions |
 
 ---
@@ -346,10 +374,8 @@ At registration, players submit a prediction:
 - Trigger leaderboard recalculation
 - Add/remove golfers from tiers before deadline
 
-### Nice to Have (Future)
-- Automated score scraping from Masters leaderboard
-- Email notifications for deadline reminders
-- Live leaderboard auto-refresh
+### Future Integration
+- Automated score pulling via PythonAnywhere site ([Golf_Pick_Em](https://github.com/BradHagstrom16/Golf_Pick_Em)) — existing API infrastructure can feed live scores into the Google Sheet for automated leaderboard updates
 
 ---
 
@@ -357,22 +383,21 @@ At registration, players submit a prediction:
 
 ### Stack
 - **Data Collection:** Google Forms
-- **Primary Platform:** Microsoft Excel (Microsoft 365)
-- **Secondary Platform:** Google Sheets (compatibility mode)
-- **Score Data Source:** Masters.com / ESPN leaderboard (manual import)
-- **Distribution:** Excel workbook template (.xlsx)
+- **Primary Platform:** Google Sheets
+- **Fallback Platform:** Microsoft Excel (.xlsx export)
+- **Score Data Source:** Masters.com / ESPN leaderboard (manual import); future: automated via PythonAnywhere API
+- **Distribution:** Shared Google Sheet (view-only for players, edit for admin)
 
 ### Workbook Structure
-1. **Instructions** — Setup guide for league administrators
-2. **Leaderboard** — Auto-sorted standings (SORT formula, ascending by total score)
-3. **Player_Picks** — Imported from Google Forms CSV
-4. **Golfers** — Master list: Name, Tier, Consensus Odds
-5. **Scores** — Current tournament scores per golfer: Score to Par, Finish Position, Status (playing/MC/WD/DQ)
-6. **Scoring** — Formula sheet: calculates fantasy score per golfer per player
-7. **Tiebreakers** — Winning score actual vs. predictions, distance calculations
-8. **Validation** — Data integrity checks (correct pick counts, no duplicates, all golfers exist)
-9. **Reference** — Tier structure, scoring rules, bonus/penalty tables
-10. **Admin_Log** — Change tracking, score update timestamps
+Modeled after the Winter Olympics Fantasy Scoreboard workbook — keep it simple.
+
+*(Final sheet count and layout to be determined during build phase. Goal: minimal sheets, maximum clarity. The Olympics workbook is the structural reference.)*
+
+### Google Forms Integration
+- Checkbox responses for 2-pick tiers export as comma-separated values (e.g., "Scottie Scheffler, Rory McIlroy")
+- Response validation must enforce exactly 2 selections for checkbox tiers
+- CSV export → import to Google Sheet
+- Tiebreaker prediction validated to range −25 to +15
 
 ### Timezone
 - All deadlines in Central Time (America/Chicago)
@@ -389,8 +414,8 @@ At registration, players submit a prediction:
 
 ### Tier Statistics (Simulated)
 
-| Tier | Players | Avg Win% | Avg Top 5% | Avg Top 20% | Avg Made Cut% | Avg Score (if MC) |
-|------|---------|----------|-----------|-------------|--------------|------------------|
+| Tier | Players | Avg Win% | Avg Top 5% | Avg Top 20% | Avg Made Cut% | Avg Score (Made Cut) |
+|------|---------|----------|-----------|-------------|--------------|---------------------|
 | 1 | 7 | 7.4% | 25.4% | 58.2% | 87% | −7.5 |
 | 2 | 12 | 1.7% | 9.6% | 34.6% | 72% | −5.3 |
 | 3 | 22 | 0.7% | 4.8% | 22.5% | 59% | −4.4 |
@@ -402,9 +427,9 @@ At registration, players submit a prediction:
 
 | Metric | Value |
 |--------|-------|
-| Avg winning lineup score | −45.2 |
+| Avg winning lineup score | −45.3 |
 | Avg last place score | +30.8 |
-| Avg 1st-to-last spread | 76.0 strokes |
+| Avg 1st-to-last spread | 76.1 strokes |
 | Avg margin of victory (1st vs 2nd) | 9.5 strokes |
 | Median margin of victory | 7.2 strokes |
 | Close finishes (< 5 strokes) | 38% |
@@ -414,17 +439,19 @@ At registration, players submit a prediction:
 
 | Tier | Picks | Winner Avg | Field Avg | Winner Edge |
 |------|-------|-----------|-----------|-------------|
-| 1 | 2 | −22.1 | −13.5 | +8.6 strokes |
-| 2 | 2 | −13.5 | −4.0 | +9.5 strokes |
-| 3 | 2 | −8.8 | +0.6 | +9.3 strokes |
-| 4 | 2 | −3.2 | +4.2 | +7.5 strokes |
-| 5 | 1 | +0.3 | +2.9 | +2.6 strokes |
-| 6 | 1 | +2.0 | +3.4 | +1.3 strokes |
+| 1 | 2 | −22.1 | −13.5 | +8.6 |
+| 2 | 2 | −13.5 | −4.0 | +9.5 |
+| 3 | 2 | −8.8 | +0.6 | +9.4 |
+| 4 | 2 | −3.2 | +4.2 | +7.4 |
+| 5 | 1 | +0.3 | +2.9 | +2.6 |
+| 6 | 1 | +2.0 | +3.4 | +1.4 |
+
+*Note: All values rounded independently from simulation data. Winner Edge is computed from unrounded values and may not equal the exact difference of the displayed rounded averages.*
 
 ### Key Design Validations
 - ✅ Every tier shows measurable improvement when optimized vs. random
-- ✅ Tier 1 dominates (+7.6 strokes from optimization) — as intended
-- ✅ Even Tier 6 matters (+0.4 strokes) — no throwaway picks
+- ✅ Tier 1 contributes the most to winning lineups (+8.6 Winner Edge) — as intended
+- ✅ Even Tier 6 shows a Winner Edge (+1.4) — no throwaway picks
 - ✅ 38% of pools finish within 5 strokes — exciting, competitive
 - ✅ Scheffler holders win 40% of pools (vs. 29% baseline) — favored but not dominant
 - ✅ Avg winner has 2.3 missed cuts out of 10 — variance keeps it interesting
@@ -447,15 +474,47 @@ Tier assignments based on consensus betting odds pulled February 24, 2026 from T
 
 ## 13. FUTURE CONSIDERATIONS
 
-- Automated score scraping (ESPN API, Masters.com)
-- Mobile-friendly Google Sheets version
+- Automated live scoring via PythonAnywhere ([Golf_Pick_Em](https://github.com/BradHagstrom16/Golf_Pick_Em)) → Google Sheets API
 - Historical tracking across years (2026 Masters → future majors)
-- Monetary prize option (code hooks for later)
+- Monetary prize option
 - Email/SMS notifications for scoring updates
 - Player-vs-player matchup view
 - "What-if" scenario calculator during tournament
 
 ---
 
-*Specification locked February 24, 2026*
-*Ready for development*
+## CHANGELOG
+
+### v2.0 (February 25, 2026)
+Resolved all findings from v1.0 audit (2 critical, 5 minor, 6 suggestions):
+
+**Critical Fixes:**
+- C1: Tiebreaker now explicitly defined for playoffs — "regulation 72-hole score to par, excluding any playoff strokes"
+- C2: Removed trailing asterisks from deadline references
+
+**Minor Fixes:**
+- M1: Added explicit rule — after deadline, any golfer withdrawal is treated as MC regardless of whether they've teed off
+- M2: Renamed "Avg Score (if MC)" column to "Avg Score (Made Cut)"
+- M3/M4: Corrected rounding inconsistencies in statistical tables; added rounding footnote to Tier Contribution Analysis
+- M5: Added administrator definition (Brad Hagstrom) and dispute resolution (admin decisions are final)
+
+**Suggestions Incorporated:**
+- S1: Added tournament cancellation/shortening rule
+- S2: Added tiebreaker prediction range validation (−25 to +15)
+- S3: Added note about Google Forms response validation for checkbox tiers
+- S4: Added expected field removal count (~25–28 players)
+- S5: Aligned Key Design Validations bullets with Winner Edge column values
+- S6: Added rule — golfers qualifying after deadline are excluded from the pool
+
+**Other Changes:**
+- Platform priority changed: Google Sheets primary, Excel (.xlsx) fallback
+- Deadline changed from "11:59 PM CT" to "first tee time (form locks automatically)"
+- Removed hardcoded workbook sheet list — deferred to build phase
+- Added PythonAnywhere/Golf_Pick_Em reference for future live scoring integration
+- Removed "10. Technical Requirements" section's rigid 10-sheet workbook structure
+
+---
+
+*Specification locked February 25, 2026*  
+*v2.0 — All audit findings resolved*  
+*Ready for build*
